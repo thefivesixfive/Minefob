@@ -2,7 +2,7 @@
 Here you will learn how to use Minefob.
 
 ## Initialization
-```import Minefob
+```from minefob import Minefob
 m = Minefob("foorbar@example.domain", "password", "my_server")
 ```
 Initializing a new Minefob class instance requires 3 arguments:

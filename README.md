@@ -14,7 +14,7 @@ pip install minefob
 ## Usage
 
 ```python
-import minefob
+from minefob import Minefob
 
 # Instantiate a new instance of the Minefob class and provide it with
 # Minehut account email, password, and server name
